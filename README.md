@@ -25,3 +25,7 @@ Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, ti
 ### Objetivo
 Este repositorio funciona como índice de proyectos con microcontroladores.  
 Cada sección enlaza a repositorios específicos donde se encuentra la documentación y el código.
+
+---
+
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
