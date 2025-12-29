@@ -14,11 +14,11 @@ Control de sensores, automatización, comunicación serie, y más.
 
 - **ESP32**
 Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
-🔗 [Ver proyectos con ESP32](https://github.com/tu-usuario-aqui?tab=repositories&q=esp32)
+🔗 [En contruccion](enlace_aca)
 
 - **STM32**
 Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
-🔗 [Ver proyectos con STM32](https://github.com/tu-usuario-aqui?tab=repositories&q=stm32)
+🔗 [En contruccion](enlace_aca)
 
 ---
 
