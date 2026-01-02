@@ -1,34 +1,33 @@
 [⬅️ Volver al repositorio principal](https://github.com/SantiagoBaeza/Portafolio-tecnico)
+
 # Proyectos con Microcontroladores
 
 Este espacio reúne mis proyectos con diferentes plataformas de hardware embebido.  
 Incluye desarrollos con **Arduino**, **ESP32** y **STM32**, aplicados a automatización, IoT y prototipado.
 
 ---
+
 ## Índice de Proyectos
 
-- **Arduino**
-  
-Pequeños y medianos proyectos utilizando Arduino UNO y Nano.  
-Control de sensores, automatización, comunicación serie, y más.  
-🔗 [Ver proyectos en Arduino](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
+- **Arduino**  
+  Pequeños y medianos proyectos utilizando Arduino UNO y Nano.  
+  Control de sensores, automatización, comunicación serie, y más.  
+  🔗 [Ver proyectos en Arduino](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
 
-- **ESP32**
-  
-Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
-🔗 [En construccion](enlace_aca)
+- **ESP32**  
+  Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
+  🔗 [En construcción](enlace_aca)
 
-- **STM32**
-  
-Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
-🔗 [En construccion](enlace_aca)
+- **STM32**  
+  Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
+  🔗 [En construcción](enlace_aca)
 
 ---
 
-### Objetivo
+## Objetivo
 Este repositorio funciona como índice de proyectos con microcontroladores.  
 Cada sección enlaza a repositorios específicos donde se encuentra la documentación y el código.
 
 ---
 
-> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
+> 🧩 Estos espacios están en construcción y se actualizan de forma frecuente.
