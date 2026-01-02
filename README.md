@@ -14,11 +14,11 @@ Incluye desarrollos con **Arduino**, **ESP32** y **STM32**, aplicados a automati
   Control de sensores, automatización, comunicación serie, y más.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
 
-- **ESP32**  
+- **ESP32 [N/A]**  
   Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/ESP32/tree/main)
 
-- **STM32**  
+- **STM32 [N/A]**  
   Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/STM32/tree/main)
 
