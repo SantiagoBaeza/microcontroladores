@@ -12,7 +12,7 @@ Incluye desarrollos con **Arduino**, **ESP32** y **STM32**, aplicados a automati
 - **Arduino**  
   Pequeños y medianos proyectos utilizando Arduino UNO y Nano.  
   Control de sensores, automatización, comunicación serie, y más.  
-  🔗 [Ver proyectos en Arduino](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
 
 - **ESP32**  
   Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
@@ -20,7 +20,7 @@ Incluye desarrollos con **Arduino**, **ESP32** y **STM32**, aplicados a automati
 
 - **STM32**  
   Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/STM32/tree/main)
 
 ---
 
