@@ -16,7 +16,7 @@ Incluye desarrollos con **Arduino**, **ESP32** y **STM32**, aplicados a automati
 
 - **ESP32**  
   Proyectos con conectividad Wi-Fi y Bluetooth: IoT básico, dashboards, control remoto desde app, etc.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/ESP32/tree/main)
 
 - **STM32**  
   Primeros desarrollos con STM32: configuración con STM32CubeIDE, drivers HAL, timers, entradas/salidas digitales.  
